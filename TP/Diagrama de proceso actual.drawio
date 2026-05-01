@@ -10,7 +10,7 @@
             <mxPoint x="320" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;El&amp;nbsp;sistema calcula automáticamente stock mínimo por producto&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Don&amp;nbsp;Roberto &quot;intuye&quot; falta de stock&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="80" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-7" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="WIyWlLk6GJQsqaUBKTNV-12" value="">
@@ -20,7 +20,7 @@
             <mxPoint x="314.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Genera&lt;br&gt;alerta de necesidad de compra&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;No revisa registros formales&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="170" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" target="WIyWlLk6GJQsqaUBKTNV-11" value="">
@@ -29,13 +29,13 @@
             <mxPoint x="220" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Don&amp;nbsp;Roberto revisa sugerencia y puede ajustar&lt;br&gt;(con registro)&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Hace&amp;nbsp;pedido verbal: cantidad y producto&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Sugiere&amp;nbsp;cantidad basada en rotación real&lt;br&gt;&amp;nbsp;(últimos 90 días)&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-12" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Llama&amp;nbsp;por teléfono a proveedor&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="7QErVSmdFaAoh0YWNwUB-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Se&amp;nbsp;genera Orden de Compra digital &lt;br&gt;con lotes y vencimientos&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="7QErVSmdFaAoh0YWNwUB-4" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Proveedor&lt;br&gt;envía factura y mercadería&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="490" as="geometry" />
         </mxCell>
         <mxCell id="7QErVSmdFaAoh0YWNwUB-5" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="7QErVSmdFaAoh0YWNwUB-4" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7QErVSmdFaAoh0YWNwUB-6" value="">
@@ -44,13 +44,13 @@
             <mxPoint x="320" y="540" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7QErVSmdFaAoh0YWNwUB-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;line-height: 107%;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Al&amp;nbsp;recibir, se escanea/ingresa lote y fecha de vencimiento&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="7QErVSmdFaAoh0YWNwUB-6" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&amp;lt;br/&amp;gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-AR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Empleado&amp;nbsp;recibe y anota a mano en ficha&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="600" as="geometry" />
         </mxCell>
-        <mxCell id="7QErVSmdFaAoh0YWNwUB-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Sistema&amp;nbsp;actualiza stock y aplica regla FEFO para despachos&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="7QErVSmdFaAoh0YWNwUB-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;span style=&quot;font-size:11.0pt;line-height:107%;&amp;lt;br/&amp;gt;font-family:&amp;quot;Calibri&amp;quot;,sans-serif;mso-ascii-theme-font:minor-latin;mso-fareast-font-family:&amp;lt;br/&amp;gt;Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:minor-latin;&amp;lt;br/&amp;gt;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&amp;lt;br/&amp;gt;mso-ansi-language:ES-AR;mso-fareast-language:EN-US;mso-bidi-language:AR-SA&quot;&gt;Stock real difiere del registrado &lt;br&gt;→ quiebre o vencimiento&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="340" x="160" y="700" as="geometry" />
         </mxCell>
-        <mxCell id="7QErVSmdFaAoh0YWNwUB-9" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong&gt;&lt;span style=&quot;font-size:11.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Inter&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;color:#0F1115;mso-ansi-language:ES-AR;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Diagrama del proceso mejorado&lt;/span&gt;&lt;/strong&gt;" vertex="1">
+        <mxCell id="7QErVSmdFaAoh0YWNwUB-9" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;strong&gt;&lt;span style=&quot;font-size:11.0pt;line-height:&lt;br/&gt;107%;font-family:&amp;quot;Inter&amp;quot;,sans-serif;mso-fareast-font-family:Calibri;mso-fareast-theme-font:&lt;br/&gt;minor-latin;mso-bidi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-theme-font:minor-bidi;&lt;br/&gt;color:#0F1115;mso-ansi-language:ES-AR;mso-fareast-language:EN-US;mso-bidi-language:&lt;br/&gt;AR-SA&quot;&gt;Diagrama del proceso actual (AS-IS)&lt;/span&gt;&lt;/strong&gt;" vertex="1">
           <mxGeometry height="30" width="210" x="215" y="20" as="geometry" />
         </mxCell>
         <mxCell id="7QErVSmdFaAoh0YWNwUB-10" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="7QErVSmdFaAoh0YWNwUB-4" value="">
